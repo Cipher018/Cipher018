@@ -32,8 +32,7 @@ All systems engineered from first principles.
 
 - Integrating XDF-001 subsystems for first full flight
 - Developing second-gen datalink for XDF-002
-- Targeting MIT / Stanford — Fall 2025
 
 ---
 
-<sub>Santiago, Chile · cristianindustries@[email]</sub>
+<sub>Santiago, Chile · c.cueva018@gmail.com</sub>
