@@ -6,8 +6,8 @@
 
 <br/>
 
-[![Instagram](https://img.shields.io/badge/Instagram-0A1628?style=for-the-badge&logo=instagram&logoColor=00CFFF)](https://instagram.com/[cipher_012])
-[![Email](https://img.shields.io/badge/Contact-0A1628?style=for-the-badge&logo=gmail&logoColor=00CFFF)](mailto:[c.cueva018@mgmail.com])
+[![Instagram](https://img.shields.io/badge/Instagram-0A1628?style=for-the-badge&logo=instagram&logoColor=00CFFF)](https://instagram.com/cipher_012)
+[![Email](https://img.shields.io/badge/Contact-0A1628?style=for-the-badge&logo=gmail&logoColor=00CFFF)](mailto:c.cueva018@mgmail.com)
 
 </div>
 
