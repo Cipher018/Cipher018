@@ -21,7 +21,6 @@ Founder of **Cristian Industries** — designing and integrating full-stack auto
 |---|---|
 | 📍 **Location** | Santiago, Chile |
 | 🎯 **Focus** | Autonomous aerial systems · Embedded control · RF communications |
-| 🏛️ **Targets** | MIT Early Action · Stanford REA — Fall 2025 |
 | 🔬 **Method** | First principles — every decision documented, every architecture justified |
 
 ---
