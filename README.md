@@ -1,7 +1,7 @@
 <div align="center">
 
 # CRISTIAN INDUSTRIES
-### Autonomous Systems · Aerospace · Defense
+### Autonomous Systems · Aerospace · Defense · Civil
 #### *Supra Omnia*
 
 <br/>
